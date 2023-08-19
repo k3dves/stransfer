@@ -1,0 +1,20 @@
+{
+  "name": "stransfer",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Transfer Your Personally Curated Music.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhor Verma",
+  "license": "ISC",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.3.2",
+    "open": "^9.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.47.0"
+  }
+}
